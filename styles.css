@@ -28,4 +28,10 @@ p, a {
 
 #comic-title {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+}
+
+#comic-page {
+width: 50%;
+height: auto;
 }
